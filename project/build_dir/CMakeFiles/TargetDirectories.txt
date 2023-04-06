@@ -1,0 +1,3 @@
+D:/project/build_dir/CMakeFiles/StudentContest.dir
+D:/project/build_dir/CMakeFiles/edit_cache.dir
+D:/project/build_dir/CMakeFiles/rebuild_cache.dir
